@@ -1,0 +1,76 @@
+{
+  "shoes": [
+    {
+      "id": "1",
+      "title": "Nike Air Max 270 GO",
+      "brand": "Nike",
+      "price": "110",
+      "description": "The Nike Air Max 270 GO is ready for kiddos to do just that—\"GO!\" What's GO, you ask? It's our answer to making shoes super easy to take on and off—hands free! Help your little one press down on the collapsible heel. Slip their feet in and see the heel snap back into place. Done! Don't forget the 270 Air unit for a big bouncy feel while they play.",
+      "image_url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/e8e2d037-b69a-4941-9459-0e9b5c6bd50a/air-max-270-go-little-kids-easy-on-off-shoes-7XNmw3.png"
+    },
+    {
+      "id": "2",
+      "title": "Ultraboost 21",
+      "brand": "Adidas",
+      "price": "180",
+      "description": "Experience ultimate energy return with Ultraboost 21.  Prototype after prototype. Innovation after innovation. Testing after testing. Meet us in the hot pursuit of the pinnacle harmonization of weight, cushioning, and responsiveness. Ultraboost 21. Say hello to incredible energy return.",
+      "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/c1eb190cf35440038645ad4f0105e2e7_9366/Ultraboost_21_Running_Shoes_Black_GX5236_01_standard.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Gel-Kayano 27",
+      "brand": "ASICS",
+      "price": "160",
+      "description": "The ASICS Gel-Kayano 27 provides premium stability and cushioning, perfect for overpronators seeking a smooth, comfortable run.",
+      "image_url": "https://images.asics.com/is/image/asics/1011A767_001_SR_RT_GLB?$zoom$"
+    },
+    {
+      "id": "4",
+      "title": "Adizero Adios Pro 3 Running Shoes - SS24",
+      "brand": "Adidas",
+      "price": "219",
+      "description": "The pinnacle of Adizero Racing products, the Adios Pro 3s have been built with and for athletes, achieving unbelievable feats. Designed with a continental outsole and innovative Lightstrike PRO technology, the shoes offer an unbeatable balance of comfort and performance.",
+      "image_url": "https://cdn11.bigcommerce.com/s-21x65e8kfn/images/stencil/original/products/68543/330362/ADI17067_1000_1__93282.1712929845.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Alphaboost V1 Shoes",
+      "brand": "Adidas",
+      "price": "120",
+      "description": "DURABLE SNEAKERS MADE IN PART WITH RECYCLED MATERIALS. Underneath the clean lines of these adidas shoes, you'll discover a wealth of tech. They're made with multilayered cushioning, including energy-returning BOOST, Bounce and Adiprene+ for exceptional comfort as you navigate the streets. The abrasion-resistant CORDURA® textile upper is designed to weather whatever comes your way.",
+      "image_url": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/5e1ed78b766a4707b4f0af9c012f7961_9366/Alphaboost_V1_Shoes_Black_HQ4517_01_standard.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Adidas Men's PUREBOOST 23 Sneaker ",
+      "brand": "Adidas",
+      "price": "184",
+      "description": "Logging daily miles is a delight in the adidas Pureboost 23 running shoes. Full-length BOOST provides the ultimate energy return, and strategic cutouts along the rubber outsole let the foam compress and expand while you run. The lightweight engineered mesh upper is breathable where your foot heats up and supportive where it needs to be, resulting in a running experience that is comfortable toe to heel.",
+      "image_url": "https://www.batabd.com/cdn/shop/files/1_426d2e42-af05-43f5-ab1a-cc566c4e7dc7_1024x1024.jpg?v=1712129609"
+    },
+    {
+      "id": "7",
+      "title": "GEL-CUMULUS 26 LIMITED EDITION",
+      "brand": "Asics",
+      "price": "140",
+      "description": "Experience a soft feel underfoot with the GEL-CUMULUS® 26 shoe. This neutral everyday trainer is a versatile choice for various running workouts and distances.​FF BLAST™ PLUS cushioning and PureGEL® technology are strategically positioned in the midsole. These materials help create softer landings and a more energized toe-off during your training.​ ",
+      "image_url": "https://images.asics.com/is/image/asics/1011B943_400_SR_RT_GLB?$zoom$"
+    },
+    {
+      "id": "8",
+      "title": " NIMBUS MIRAI ",
+      "brand": "Asics",
+      "price": "180",
+      "description": "The NIMBUS MIRAI™ shoe is taking steps towards creating a truly zero waste running shoe.\n\nA soft engineered knit upper comfortably wraps your foot while supplying advanced ventilation. We've created a new glue that allows this feature to be separated from the midsole after applying heat. Part of our take-back program, this construction allows you to bring the upper and sole back so the shoes can be repurposed.\n\nIt's also made with 100% recycled content and one type of polyester to support a sound earth.\n\nFF BLAST™ PLUS ECO cushioning is engineered with 24% bio-based content. It's designed to help create lightweight and energetic cushioning properties.",
+      "image_url": "https://images.asics.com/is/image/asics/1013A138_100_SR_RT_GLB?$zoom$"
+    },
+    {
+      "id": "9",
+      "title": "METASPEED EDGE PARIS",
+      "brand": "Asics",
+      "price": "250",
+      "description": "The METASPEED™ EDGE PARIS racing shoes are designed for cadence-style runners who are looking to start fast and finish faster. Runners wearing these shoes will be able to increase their speed by increasing number of strides and conserve energy with each step. ​Thanks to an energetic midsole foam and a propulsive carbon plate, runners wearing these shoes will be able to conserve more energy while maintaining their pace at the later stages of the race.​ This update will also help you to kick-through the 30km wall more easily.In addition to its lighter construction, these shoes also feature FF TURBO™ PLUS cushioning. This helps to improve compression and while providing more energy savings.",
+      "image_url": "https://images.asics.com/is/image/asics/1013A124_600_SR_RT_GLB?$zoom$"
+    }
+  ]
+}
